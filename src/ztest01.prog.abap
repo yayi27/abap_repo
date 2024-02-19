@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST01.
 
-WRITE: 'First update'.
+WRITE: 'Second update'.
